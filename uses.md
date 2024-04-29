@@ -22,3 +22,19 @@ yellow -    /033[0;33m
 
 
 # comment - '#' is used for commenting
+
+# variables
+- user define variables
+- system define variables
+
+varible define -> alphanumeric and _
+examples -> variable2Name, variableName, _variableName
+
+case sensitive -> NAME, name, nAmE
+
+not valid names -> 3variableName, my-name
+
+$ -> process id
+PPID -> parent process id
+
+

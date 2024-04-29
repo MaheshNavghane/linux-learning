@@ -7,3 +7,6 @@ to find directory/file
 
 . - current working directory
 / - in directory
+
+
+read -> it will ask for input in command line
